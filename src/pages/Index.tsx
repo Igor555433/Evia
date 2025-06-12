@@ -313,7 +313,7 @@ const Index = () => {
             className={`transition-all duration-700 ${isVisible("results") ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
           >
             <div className="max-w-6xl mx-auto text-center">
-              <div className="relative mt-5 h-auto">Enter some text...</div>
+              <div className="relative mt-5 h-auto"></div>
               <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-12">
                 Гарантированные результаты за 90 дней
               </h2>
