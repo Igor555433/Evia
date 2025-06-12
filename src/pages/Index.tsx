@@ -157,7 +157,7 @@ const Index = () => {
                 <CardContent className="text-center">
                   <p className="text-gray-600 text-lg leading-relaxed">
                     Вы умеете создавать продукт, но маркетинг и продажи не ваша
-                    сильна�� сторона
+                    сильная сторона
                   </p>
                 </CardContent>
               </Card>
@@ -630,7 +630,7 @@ const Index = () => {
                   </CardHeader>
                   <CardContent className="text-center">
                     <p className="text-gray-600">
-                      Глубокое погружение в ваш продукт и целевую ��удиторию
+                      Глубокое погружение в ваш продукт и целевую аудиторию
                     </p>
                   </CardContent>
                 </Card>
